@@ -1,14 +1,15 @@
 # my-crawler-project
 按照用户需求进行数据爬取，便于用户进行决策和选择
 music.py 
-类结构：NetEaseMusic 类是主要的功能类，包含了：
+NetEaseMusic 类是主要的功能类，
+包含了：
 初始化方法设置了请求头和 API URL
 搜索歌曲的方法 search_song()
 下载歌曲的方法 download_song()
 主要功能：
 搜索功能 (search_song):
 通过网易云音乐的 API 搜索歌曲
-默认返回 5 首歌曲的搜索结果
+默认返回歌曲的搜索结果
 使用 requests 库发送 GET 请求到搜索 API
 下载功能 (download_song):
 根据歌曲 ID 构建下载链接
