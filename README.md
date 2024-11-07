@@ -23,4 +23,9 @@ NetEaseMusic 类是主要的功能类，
 运行程序后，输入要搜索的歌曲名称
 从显示的搜索结果中选择一首歌曲下载
 歌曲将被下载到 'music-downloads' 目录中
-这个程序使用了网易云音乐的公开 API，可能会受到 API 限制或变更的影响。同时，下载音乐时请注意版权问题。
+这个程序使用了网易云音乐的公开 API，可能受到 API 限制或变更的影响。下载音乐时请注意版权问题。
+
+
+
+
+![image](https://github.com/user-attachments/assets/bad7b8a5-6900-4a86-bb73-bcdeaa48911f)
