@@ -5,6 +5,8 @@
 
 2、
 新的movie代码，可以实现从豆瓣电影根据用户输入的电影分类类型爬取该网站此电影分类的前20部电影的详细信息，包括电影的名称，上映时间，导演，豆瓣评分，演员，简介等，存储到movie_data文件夹中，以文本形式提供给用户进行使用或处理。
+
 ![image](https://github.com/user-attachments/assets/69a1f6fc-febb-432b-b3c9-73391e67e04c)
+
 ![image](https://github.com/user-attachments/assets/37c66b3a-1b7d-42fb-bfed-f41dec62021c)
 
