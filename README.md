@@ -12,3 +12,11 @@
 
 ![image](https://github.com/user-attachments/assets/37c66b3a-1b7d-42fb-bfed-f41dec62021c)
 
+3、food代码，实现按照用户需求从指定城市爬取肯德基餐厅的详细信息，包括位置，营业方式等，并以json文件方式存储，便于用户进行进一步处理。
+
+![image](https://github.com/user-attachments/assets/fa7e5431-5b53-4f27-90f8-2a9a7e7b2e17)
+
+![image](https://github.com/user-attachments/assets/4261c721-cfd3-4364-97b6-22e6db56b067)
+
+
+
