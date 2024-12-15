@@ -20,4 +20,4 @@
 
 4、评论爬取正在更新中
 
-5、已经将本开源项目包打包上传至PYPI，用户可以直接通过命令pip进行下载，pip install crawltwj，即可安装本包进行使用爬取。
+5、已经将本开源项目包打包上传至PYPI，用户可以直接通过命令pip进行下载，pip install crawltwj，即可安装本包进行使用爬取，所需要其他包环境可能需要用户自行安装requirements.txt文件中的所需条件，也可使用pip install requirements.txt文件安装其他所需环境。
