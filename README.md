@@ -1,5 +1,5 @@
 
-    已经将本开源项目包打包上传至PYPI，用户可以直接通过命令pip进行下载，pip install crawltwj，即可安装本包进行使用爬取，所需要其他包环境可能需要用户自行安装requirements.txt文件中的所需条件，也可使用pip install requirements.txt文件安装其他所需环境。
+    已经将本开源项目包打包上传至PYPI，目前版本0.0.8.2版本，用户可以直接通过命令pip进行下载，pip install crawltwj，即可安装本包进行使用爬取，所需要其他包环境可能需要用户自行安装requirements.txt文件中的所需条件，也可使用pip install requirements.txt文件安装其他所需环境。
 
 1、
 更新后的music代码，可以实现从网易云音乐根据用户输入的歌曲名称或者歌手名字爬取相关音乐的详细信息，包括歌名，歌手名，专辑，评论等，存储到music_data文件夹中，并且以文本文件的形式提供给用户进行使用或者处理。
