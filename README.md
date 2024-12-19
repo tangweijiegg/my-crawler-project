@@ -21,7 +21,7 @@
 
 ![image](https://github.com/user-attachments/assets/4261c721-cfd3-4364-97b6-22e6db56b067)
 
-4、评论爬取正在更新中
+4、评论爬取正在更新
 
 5、新增加爬取新浪网热搜的爬取程序。
 
