@@ -2,9 +2,13 @@
     已经将本开源项目包打包上传至PYPI，目前版本0.0.8.2版本，用户可以直接通过命令pip进行下载，pip install crawltwj，即可安装本包进行使用爬取
     
 音乐爬取程序输入：get_music_data()
+
 电影爬取程序输入：get_movie_data()
+
 食品爬取程序输入：get_food_data()
+
 评论爬取程序输入：get_hot_topics()
+
 热搜爬取程序输入：main()
 
 
