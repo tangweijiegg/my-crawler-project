@@ -3,17 +3,32 @@
     
 音乐爬取程序输入：
 
-                from crawl import food
+                from crawl import music
                 
                 food.get_music_data()
 
-电影爬取程序输入：get_movie_data()
+电影爬取程序输入：
 
-食品爬取程序输入：get_food_data()
+                from crawl import movie
+                
+                movie.get_movie_data()
+食品爬取程序输入：
 
-评论爬取程序输入：get_hot_topics()
+                from crawl import food
+                
+                food.get_food_data()
 
-热搜爬取程序输入：main()
+评论爬取程序输入：
+                
+                from crawl import remark
+                
+                remark.music.get_hot_topics()
+
+热搜爬取程序输入：
+
+                from crawl import news
+                
+                news.main()
 
 
 1、
