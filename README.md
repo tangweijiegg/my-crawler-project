@@ -32,7 +32,7 @@ movie代码，可以实现从豆瓣电影根据用户输入的电影分类类型
 
 ![image](https://github.com/user-attachments/assets/4261c721-cfd3-4364-97b6-22e6db56b067)
 
-4、评论爬取正在更新
+4、评论爬取正在编写
 
 5、新增加爬取新浪网热搜的爬取程序。
 
