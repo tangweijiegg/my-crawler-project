@@ -1,5 +1,5 @@
 
-    已经将本开源项目包打包上传至PYPI，目前版本0.0.8.2版本，用户可以直接通过命令pip进行下载，pip install crawltwj，即可安装本包进行使用爬取
+    已经将本开源项目包打包上传至PYPI，目前版本0.0.8.4版本，用户可以直接通过命令pip进行下载，pip install crawltwj，即可安装本包进行使用爬取，同时正在增加qt图形界面程序，可视化爬取操作，已更新到0.0.2版本，但目前bug还很多，建议用户继续使用终端操作方法。
     
 音乐爬取程序输入：
 
@@ -30,6 +30,12 @@
                 
                 news.main()
 
+购物爬取程序输入：
+
+                from crawl import shop
+                
+                shop.main()
+
 
 1、
 music代码，可以实现从网易云音乐根据用户输入的歌曲名称或者歌手名字爬取相关音乐的详细信息，包括歌名，歌手名，专辑，评论等，存储到music_data文件夹中，并且以文本文件的形式提供给用户进行使用或者处理。
@@ -53,8 +59,21 @@ movie代码，可以实现从豆瓣电影根据用户输入的电影分类类型
 
 4、评论爬取正在编写
 
-5、新增加爬取新浪网热搜的爬取程序。
+5、爬取新浪网热搜的爬取程序。
 
 ![{189D8CCE-259F-4D3C-8A6B-D15660D37B48}](https://github.com/user-attachments/assets/682687a7-7f9d-48e1-81d1-702543ace4da)
+
+6、新增购物商场爬取程序
+
+![image](https://github.com/user-attachments/assets/def3eac4-3ab4-4a69-9bab-fd18858f5ed6)
+
+![image](https://github.com/user-attachments/assets/49437d25-6d72-429c-951e-50ac01efdc33)
+
+![image](https://github.com/user-attachments/assets/cee13bfc-7c5a-4298-a586-4a5c410ff6ff)
+
+![image](https://github.com/user-attachments/assets/cfff9482-d029-4bd0-b4ad-2482058177eb)
+
+
+
 
 
